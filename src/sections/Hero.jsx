@@ -10,9 +10,9 @@ function Hero() {
             Laugh, stake, and collect rewards with Beden on Solana!
           </h1>
           <img
-            src="images/logo.png"
+            src="images/img2.jpeg"
             alt=""
-            className=" rounded-full h-[350px] mb-4 floating"
+            className=" rounded-2xl h-[350px] mb-4 floating"
           />
 
           <div className="bg-[#ab3435] rounded-full py-2 px-4 my-3">

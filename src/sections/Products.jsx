@@ -16,7 +16,7 @@ function Products() {
           </div>
 
           <div>
-            <img src="images/img2.jpeg" alt="" className="rounded-full h-[200px] w-[300px]" />
+            <img src="images/logo.png" alt="" className="rounded-full h-[300px] w-auto" />
           </div>
         </div>
       </div>
