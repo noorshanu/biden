@@ -17,9 +17,9 @@ function Aboutus() {
             <h1 className=" asul-bold text-4xl py-4">About us</h1>
 
             <p className=" text-lg py-2">
-              Get ready for the ultimate crypto adventure with Baby Trump Meme
+              Get ready for the ultimate crypto adventure with Beden Meme
               Coin on Solana! Imagine the iconic figure of President Donald
-              Trump, but cuter, funnier, and a tad more...babyish! This little
+              Beden, but cuter, funnier, and a tad more...babyish! This little
               fella is here to shake up the crypto world with his winning
               nature, presidential skills, and irresistible charm. Who needs
               boring coins when your wallet can make you giggle?
@@ -34,7 +34,7 @@ function Aboutus() {
             <p className=" text-lg py-2">
               Join us on our journey to make sol great again! Whether you're
               a seasoned investor, a blockchain enthusiast, or simply someone
-              who enjoys a good laugh, there's a place for you in the Baby Trump
+              who enjoys a good laugh, there's a place for you in the Baby Beden
               movement. 
             </p>
           </div>
