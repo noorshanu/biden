@@ -7,7 +7,7 @@ function Hero() {
       <div className=" container-wrapper">
         <div className=" flex flex-col justify-center items-center pt-0 sm:pt-[1rem]">
           <h1 className=" asul-bold text-xl sm:text-3xl font-semibold py-4">
-            Laugh, stake, and collect rewards with Biden on Solana!
+            Laugh, stake, and collect rewards with Beden on Solana!
           </h1>
           <img
             src="images/logo.png"
