@@ -12,7 +12,7 @@ function Hero() {
           <img
             src="images/logo.png"
             alt=""
-            className=" rounded-full h-[350px] mb-4"
+            className=" rounded-full h-[350px] mb-4 floating"
           />
 
           <div className="bg-[#ab3435] rounded-full py-2 px-4 my-3">
@@ -44,7 +44,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://twitter.com/Trumphsol"
+                href="http://twitter.com/Bedennhat"
                 target="_blank"
                 className=" text-5xl"
               >
