@@ -4,12 +4,12 @@ function Aboutus() {
   return (
     <section className=" py-4">
       <div className=" container-wrapper">
-        <div className=" flex justify-between items-center gap-2 flex-col sm:flex-row">
+        <div className=" flex justify-between items-center gap-4 flex-col sm:flex-row">
           <div className=" w-full">
             <img
               src="images/about.jpeg"
               alt=""
-              className=" h-auto sm:h-[490px] rounded-xl"
+              className=" h-auto sm:h-[370px] rounded-xl"
             />
           </div>
 
