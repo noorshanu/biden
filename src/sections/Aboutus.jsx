@@ -7,7 +7,7 @@ function Aboutus() {
         <div className=" flex justify-between items-center gap-2 flex-col sm:flex-row">
           <div className=" w-full">
             <img
-              src="images/about.png"
+              src="images/about.jpeg"
               alt=""
               className=" h-auto sm:h-[490px] rounded-xl"
             />
